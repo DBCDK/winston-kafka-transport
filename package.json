@@ -1,5 +1,5 @@
 {
-  "name": "winston-kafka-transport",
+  "name": "@dbcdk/winston-kafka-transport",
   "version": "0.1.7",
   "description": "Kafka transport for Winston",
   "main": "index.js",
